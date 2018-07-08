@@ -1,0 +1,20 @@
+.nav_brand {
+    color: #3f87b3;
+    font-size: 32px;
+    margin: 0;
+    padding: 8px 0;
+}
+
+.btn_login {
+        width: 150px;
+    height: 50px;
+    border: 0;
+    background: #3f87b3;
+    color: #fff;
+    font-size: 15px;
+}
+
+.btn_login i {
+    
+    margin-right: 5px
+}

@@ -1,0 +1,20 @@
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width:300px;
+
+}
+h3 {
+    text-align: center;
+    width:300px;
+    
+}
+p {
+    width:300px;
+
+}
+.inline {
+    padding: 5px;
+    width:300px;
+}
