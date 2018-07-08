@@ -5,8 +5,6 @@ import { LOCATION_CHANGE } from 'react-router-redux';
 
 var initialState = fromJS({
     'data': {
-        //'UserName': "jcs.admin",
-       // "Password": "admin@007"
        'showForgotPassword': false
     }
 });

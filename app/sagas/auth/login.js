@@ -20,9 +20,10 @@ export function* submitLogin() {
         yield take(ConstantBuilder("AUTH", "LOGIN_SUBMIT"));
 
         showLoader();
-      
-                hideLoader();
-                hashHistory.push("/dashboard")
+        Auth.setToken("dummytocken");
+
+        hideLoader();
+        hashHistory.push("/dashboard")
          
     }
 }

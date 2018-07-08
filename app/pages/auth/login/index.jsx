@@ -12,9 +12,7 @@ import Styles from './style.css';
 
 class Login extends React.Component {
     responseFacebook(response) {
-        debugger;
         props.dispatch(ActionBuilder("AUTH", "LOGIN_SUBMIT"));
-        console.log(response)
       }
     render() {
 
