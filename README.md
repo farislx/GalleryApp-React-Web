@@ -1,4 +1,4 @@
-## Install and Running `git clone https://github.com/vivekkv/React-Express-Webpack.git`
+## Install and Running `git clone http
 
 1. npm install
 2. npm start
